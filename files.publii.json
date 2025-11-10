@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "7c5bd6ee1cca051778255a8759517658"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "adb058a540a092850d1a5f7fa222a9a3"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-a-journey-of-light-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-a-journey-of-light-and-understanding/index.html",
+        "type": "file",
+        "md5": "6e62b52fa4fff4d204fbf2e13f445c21"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-discover-the-most-effective-way-to-connect-with-the-book-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-discover-the-most-effective-way-to-connect-with-the-book-of-allah/index.html",
+        "type": "file",
+        "md5": "fb3661bfaeeffdb36bf0a1c38921c2bd"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-your-complete-guide-to-mastering-the-holy-quran-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-your-complete-guide-to-mastering-the-holy-quran-from-home/index.html",
+        "type": "file",
+        "md5": "f7492d592d103d6390304253d22c2793"
+    },
+    {
+        "path": "best-website-to-learn-quran-online-free-learn-the-words-of-allah-without-barriers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-website-to-learn-quran-online-free-learn-the-words-of-allah-without-barriers/index.html",
+        "type": "file",
+        "md5": "a25b58d4e8590416a6eb106c39ee23ce"
+    },
+    {
+        "path": "best-website-to-learn-quran-online-free-your-gateway-to-quran-learning-without-cost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-website-to-learn-quran-online-free-your-gateway-to-quran-learning-without-cost/index.html",
+        "type": "file",
+        "md5": "b3ab86e3c39d979ff3d37849f1c5e5de"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "a08d270f79cd09d7d98d49b01533792e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "27634d8a750f2a636175db24dd8bfe70"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4f00cc52531c7cfc442c1014c1ee1076"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/jn-lqlwb.jpg",
+        "type": "file",
+        "md5": "89f3707084d264b0f7076bcbed288e03"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-2xl.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-lg.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-md.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-sm.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-xl.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "/media/website/responsive/jn-lqlwb-xs.jpg",
+        "type": "file",
+        "md5": "5e5738faa674aa392324522b1e5ff266"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "a28fb4cb4a0e217481f5aad6875d48aa"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "daa820a8d66cc42c5330eabdd70b31b0"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "7452d0eae51f3ef54c6f59fca332b5d0"
+    }
+]
